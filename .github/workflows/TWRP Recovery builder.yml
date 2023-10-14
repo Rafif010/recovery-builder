@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git -b twrp-11
-  DEVICE: X655C
-  DT_LINK: https://github.com/kies83/twrp_infinix_X655C
-  DT_PATH: device/infinix/X655C
+  DEVICE: X663B
+  DT_LINK: https://github.com/Rafif010/android_device_infinix_Infinix-X663B.git
+  DT_PATH: device/infinix/Infinix-X663B
   TARGET: recoveryimage
   TZ: Asia/Karachi
 
